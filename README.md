@@ -32,6 +32,4 @@ Colouring shows the id of the color each vertex has to get
 NOTE: array index for vertices and colouring are the same (for the above example the first vertex 0 has to get colour 3)
 The last line checks for each edge once again if the start and end point really don't have the same color and outputs a prompt
 
-
-
-
+Please excuse the loading times with big number of vertices it is python after all.

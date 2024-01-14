@@ -3,7 +3,7 @@ random.seed()
 
 
 # read input file and convert to a graph
-f = open("g1.txt", "r")
+f = open("random_graph.txt", "r")
 vertices = f.readline()
 vertices = vertices[:-1]
 new_vertex_list = vertices.split(',')
