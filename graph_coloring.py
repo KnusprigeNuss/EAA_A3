@@ -3,7 +3,7 @@ random.seed()
 
 
 # read input file and convert to a graph
-f = open("random_graph.txt", "r")
+f = open("g1.txt", "r")
 vertices = f.readline()
 vertices = vertices[:-1]
 new_vertex_list = vertices.split(',')
@@ -56,7 +56,7 @@ for vertex in graph[0]:
         if doomed == False:
             not_correct_colour = False
     colouring[vertex] = v_colour
-print("colouring: ", colouring)
+print("Colouring: ", colouring)
 
 
 # checker
