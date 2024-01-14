@@ -1,4 +1,4 @@
-This is my solution for A3 bonus.
+This is my solution for A3 bonus.<br>
 For the implementation I used Python 3.10.12
 g1 is just simple testcases which I used to test my implementation on a small scale and can be ignored
 
